@@ -1,0 +1,30 @@
+{
+  "name": "LIRI-Bot",
+  "version": "1.0.0",
+  "description": "I said LIRI not SIRI",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisplaster/LIRI-Bot.git"
+  },
+  "keywords": [],
+  "author": "Denis Plaster <denjeo@gmail.com>",
+  "license": "uofm",
+  "bugs": {
+    "url": "https://github.com/denisplaster/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/denisplaster/LIRI-Bot#readme",
+  "dependencies": {
+    "bandsintown": "1.0.1",
+    "chalk": "2.4.1",
+    "dotenv": "6.1.0",
+    "file-system": "2.2.2",
+    "moment": "2.22.2",
+    "node-spotify-api": "1.0.7",
+    "omdb": "0.8.0",
+    "spotify": "0.3.0"
+  }
+}
