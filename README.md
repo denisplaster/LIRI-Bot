@@ -6,7 +6,7 @@ The LIRI-bot is a command line Node application that allows the user to search S
 Installation
 Begin by cloning the repo in your terminal and cd into the liri-node-app
 
-git clone <ahref="https://denisplaster.github.io/LIRI-bot/">https://denisplaster.github.io/LIRI-bot/</a>
+git clone <a href="https://denisplaster.github.io/LIRI-bot/">https://denisplaster.github.io/LIRI-bot/</a>
 cd liri-node-app
 Install necessary packages
 
