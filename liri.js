@@ -28,7 +28,7 @@ function switchStatement() {
 
 var input = process.argv.slice(3).join(" ");
 
-//OMDB ====================================================
+//OMDB
 
 function getMovie() {
 
@@ -70,7 +70,7 @@ function getMovie() {
 }
 
 
-//BandsInTown =============================================
+//BandsInTown - *Couldnt get the key ID*
 
 // function concertThis() {
 
@@ -108,7 +108,7 @@ function getMovie() {
 //     });
 // }
 
-//Spotify This Song ========================================
+//Spotify This Song 
 
 // var song;
 function getSong() {
